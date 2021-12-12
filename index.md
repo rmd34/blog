@@ -8,3 +8,4 @@
 layout: home
 ---
 ![header](https://live.staticflickr.com/1210/1045042756_3b170b5d34.jpg){:class="img-responsive"}
+Join me in reviewing and discussing photography, technology and personal productivity.
