@@ -24,9 +24,9 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-            <p>{{ site.description | escape }}</p>
         </div>
       </nav>
     {%- endif -%}
+    <p>{{ site.description | escape }}</p>
   </div>
 </header>
