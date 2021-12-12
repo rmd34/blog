@@ -8,3 +8,8 @@ meta: "Springfield"
 ---
 ### **Carving out a place on the web**
 While there is no shortage of places to watch, read and immerse yourself in the latest technology, productivity and photography happenings, I invite you to join me here on my personal journey through these topics, and more!
+
+[img]https://live.staticflickr.com/65535/51670577933_8c1223d248_c.jpg[/img]
+
+
+I hope you enjoy the journey!
