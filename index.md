@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-![Link Text] https://live.staticflickr.com/1210/1045042756_3b170b5d34.jpg
+![Link Text] (https://live.staticflickr.com/1210/1045042756_3b170b5d34.jpg)
