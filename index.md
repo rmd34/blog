@@ -7,4 +7,5 @@
 #
 layout: home
 ---
+[url=https://www.flickr.com/gp/ryfoto/ajBvD0][img]https://live.staticflickr.com/1210/1045042756_3b170b5d34_c.jpg[/img][/url][url=https://www.flickr.com/gp/ryfoto/ajBvD0]crop2[/url] by [url=https://www.flickr.com/photos/ryfoto/]Ryan Day[/url], on Flickr
 Join me in reviewing and discussing photography, technology and personal productivity.
