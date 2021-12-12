@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: junk
+title: "Welcome to PhotographySite"
+categories: intro
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
+- Ryan Day
 meta: "Springfield"
 ---
 
