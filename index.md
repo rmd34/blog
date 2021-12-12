@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-## Join me in reviewing and discussing photography, technology and personal productivity.
+Join me in reviewing and discussing photography, technology and personal productivity.
